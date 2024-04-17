@@ -1,0 +1,32 @@
+@media(max-width: 425px){
+
+    .logo{
+        width: 120px;
+    }
+    .link-pravoce{
+        font-size: 12px;
+    }
+
+    .link-praempresa{
+        font-size: 12px;
+    }
+    .list-navbar{
+        font-size: 10px;
+        gap: 10px;
+        margin: 20px;
+    }
+
+    .menu-services{
+        flex-direction: column;
+        margin-left: 125px;
+    }
+
+    h3{
+        margin-left: 50px;
+        font-size: 20px;
+    }
+
+    .itens-navbar {
+        text-align: center;
+    }
+}
