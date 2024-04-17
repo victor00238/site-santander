@@ -30,3 +30,30 @@
         text-align: center;
     }
 }
+
+
+@media(max-width: 500px){
+
+    .logo{
+        width: 150px;
+    }
+    
+    .list-navbar{
+        font-size: 12px;
+        margin: 20px;
+    }
+
+    .menu-services{
+        flex-direction: column;
+        margin-left: 175px;
+    }
+
+    h3{
+        margin-left: 70px;
+        font-size: 25px;
+    }
+
+    .itens-navbar {
+        text-align: center;
+    }
+}
